@@ -5,7 +5,7 @@ import numpy as np
 import joblib
 
 # Load trained model
-model = joblib.load("prediction_model_v2.joblib")   # Replace with your saved model name
+model = joblib.load("best_model.pkl")   # Replace with your saved model name
 
 st.title("SuperKart Sales Prediction")
 st.write("Enter the product and store details to predict product sales.")
