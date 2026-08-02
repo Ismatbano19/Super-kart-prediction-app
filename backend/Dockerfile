@@ -1,17 +1,1 @@
-
-FROM python:3.9-slim
-
-# Set the working directory
-WORKDIR /app
-
-# Copy project files into the container
-COPY . .
-
-# Install required Python packages
-RUN pip install --no-cache-dir --upgrade -r requirements.txt
-
-# Expose the application port
-EXPOSE 7860
-
-# Start the Flask application using Gunicorn
-CMD ["gunicorn", "-w", "4", "-b", "0.0.0.0:7860", "app:superkart_sales_api"]
+CkZST00gcHl0aG9uOjMuOS1zbGltCgojIFNldCB0aGUgd29ya2luZyBkaXJlY3RvcnkKV09SS0RJUiAvYXBwCgojIENvcHkgcHJvamVjdCBmaWxlcyBpbnRvIHRoZSBjb250YWluZXIKQ09QWSAuIC4KCiMgSW5zdGFsbCByZXF1aXJlZCBQeXRob24gcGFja2FnZXMKUlVOIHBpcCBpbnN0YWxsIC0tbm8tY2FjaGUtZGlyIC0tdXBncmFkZSAtciByZXF1aXJlbWVudHMudHh0CgojIEV4cG9zZSB0aGUgYXBwbGljYXRpb24gcG9ydApFWFBPU0UgNzg2MAoKIyBTdGFydCB0aGUgRmxhc2sgYXBwbGljYXRpb24gdXNpbmcgR3VuaWNvcm4KQ01EIFsiZ3VuaWNvcm4iLCAiLXciLCAiNCIsICItYiIsICIwLjAuMC4wOjc4NjAiLCAiYXBwOnN1cGVya2FydF9zYWxlc19hcGkiXQo=
