@@ -1,1 +1,74 @@
-CiMgSW1wb3J0IG5lY2Vzc2FyeSBsaWJyYXJpZXMKaW1wb3J0IGpvYmxpYgppbXBvcnQgcGFuZGFzIGFzIHBkCmZyb20gZmxhc2sgaW1wb3J0IEZsYXNrLCByZXF1ZXN0LCBqc29uaWZ5CgojIEluaXRpYWxpemUgRmxhc2sgYXBwbGljYXRpb24Kc3VwZXJrYXJ0X3NhbGVzX2FwaSA9IEZsYXNrKCJTdXBlckthcnQgU2FsZXMgUHJlZGljdGlvbiBBUEkiKQoKIyBMb2FkIHRyYWluZWQgbW9kZWwKbW9kZWwgPSBqb2JsaWIubG9hZCgicHJlZGljdGlvbl9tb2RlbF92MS5qb2JsaWIiKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgSG9tZSBSb3V0ZQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KQHN1cGVya2FydF9zYWxlc19hcGkuZ2V0KCIvIikKZGVmIGhvbWUoKToKICAgIHJldHVybiAiV2VsY29tZSB0byB0aGUgU3VwZXJLYXJ0IFNhbGVzIFByZWRpY3Rpb24gQVBJISIKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIFNpbmdsZSBQcmVkaWN0aW9uIEVuZHBvaW50CiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpAc3VwZXJrYXJ0X3NhbGVzX2FwaS5wb3N0KCIvdjEvcHJlZGljdCIpCmRlZiBwcmVkaWN0X3NhbGVzKCk6CgogICAgZGF0YSA9IHJlcXVlc3QuZ2V0X2pzb24oKQoKICAgIHNhbXBsZSA9IHsKICAgICAgICAiUHJvZHVjdF9XZWlnaHQiOiBkYXRhWyJQcm9kdWN0X1dlaWdodCJdLAogICAgICAgICJQcm9kdWN0X1N1Z2FyX0NvbnRlbnQiOiBkYXRhWyJQcm9kdWN0X1N1Z2FyX0NvbnRlbnQiXSwKICAgICAgICAiUHJvZHVjdF9BbGxvY2F0ZWRfQXJlYSI6IGRhdGFbIlByb2R1Y3RfQWxsb2NhdGVkX0FyZWEiXSwKICAgICAgICAiUHJvZHVjdF9UeXBlIjogZGF0YVsiUHJvZHVjdF9UeXBlIl0sCiAgICAgICAgIlByb2R1Y3RfTVJQIjogZGF0YVsiUHJvZHVjdF9NUlAiXSwKICAgICAgICAiU3RvcmVfRXN0YWJsaXNobWVudF9ZZWFyIjogZGF0YVsiU3RvcmVfRXN0YWJsaXNobWVudF9ZZWFyIl0sCiAgICAgICAgIlN0b3JlX1NpemUiOiBkYXRhWyJTdG9yZV9TaXplIl0sCiAgICAgICAgIlN0b3JlX0xvY2F0aW9uX0NpdHlfVHlwZSI6IGRhdGFbIlN0b3JlX0xvY2F0aW9uX0NpdHlfVHlwZSJdLAogICAgICAgICJTdG9yZV9UeXBlIjogZGF0YVsiU3RvcmVfVHlwZSJdCiAgICB9CgogICAgaW5wdXRfZGF0YSA9IHBkLkRhdGFGcmFtZShbc2FtcGxlXSkKCiAgICBwcmVkaWN0aW9uID0gbW9kZWwucHJlZGljdChpbnB1dF9kYXRhKVswXQoKICAgIHByZWRpY3Rpb24gPSByb3VuZChmbG9hdChwcmVkaWN0aW9uKSwgMikKCiAgICByZXR1cm4ganNvbmlmeSh7CiAgICAgICAgIlByZWRpY3RlZCBQcm9kdWN0IFN0b3JlIFNhbGVzIjogcHJlZGljdGlvbgogICAgfSkKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIEJhdGNoIFByZWRpY3Rpb24gRW5kcG9pbnQKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkBzdXBlcmthcnRfc2FsZXNfYXBpLnBvc3QoIi92MS9wcmVkaWN0YmF0Y2giKQpkZWYgcHJlZGljdF9zYWxlc19iYXRjaCgpOgoKICAgIGZpbGUgPSByZXF1ZXN0LmZpbGVzWyJmaWxlIl0KCiAgICBpbnB1dF9kYXRhID0gcGQucmVhZF9jc3YoZmlsZSkKCiAgICBwcmVkaWN0aW9ucyA9IG1vZGVsLnByZWRpY3QoaW5wdXRfZGF0YSkKCiAgICBwcmVkaWN0aW9ucyA9IFtyb3VuZChmbG9hdCh4KSwgMikgZm9yIHggaW4gcHJlZGljdGlvbnNdCgogICAgb3V0cHV0ID0gewogICAgICAgICJQcmVkaWN0ZWQgU2FsZXMiOiBwcmVkaWN0aW9ucwogICAgfQoKICAgIHJldHVybiBqc29uaWZ5KG91dHB1dCkKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIFJ1biBGbGFzayBBcHAKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzdXBlcmthcnRfc2FsZXNfYXBpLnJ1bihkZWJ1Zz1UcnVlKQo=
+
+# Import necessary libraries
+import joblib
+import pandas as pd
+from flask import Flask, request, jsonify
+
+# Initialize Flask application
+superkart_sales_api = Flask("SuperKart Sales Prediction API")
+
+# Load trained model
+model = joblib.load("prediction_model_v1.joblib")
+
+# ----------------------------------------------------
+# Home Route
+# ----------------------------------------------------
+@superkart_sales_api.get("/")
+def home():
+    return "Welcome to the SuperKart Sales Prediction API!"
+
+# ----------------------------------------------------
+# Single Prediction Endpoint
+# ----------------------------------------------------
+@superkart_sales_api.post("/v1/predict")
+def predict_sales():
+
+    data = request.get_json()
+
+    sample = {
+        "Product_Weight": data["Product_Weight"],
+        "Product_Sugar_Content": data["Product_Sugar_Content"],
+        "Product_Allocated_Area": data["Product_Allocated_Area"],
+        "Product_Type": data["Product_Type"],
+        "Product_MRP": data["Product_MRP"],
+        "Store_Establishment_Year": data["Store_Establishment_Year"],
+        "Store_Size": data["Store_Size"],
+        "Store_Location_City_Type": data["Store_Location_City_Type"],
+        "Store_Type": data["Store_Type"]
+    }
+
+    input_data = pd.DataFrame([sample])
+
+    prediction = model.predict(input_data)[0]
+
+    prediction = round(float(prediction), 2)
+
+    return jsonify({
+        "Predicted Product Store Sales": prediction
+    })
+
+# ----------------------------------------------------
+# Batch Prediction Endpoint
+# ----------------------------------------------------
+@superkart_sales_api.post("/v1/predictbatch")
+def predict_sales_batch():
+
+    file = request.files["file"]
+
+    input_data = pd.read_csv(file)
+
+    predictions = model.predict(input_data)
+
+    predictions = [round(float(x), 2) for x in predictions]
+
+    output = {
+        "Predicted Sales": predictions
+    }
+
+    return jsonify(output)
+
+# ----------------------------------------------------
+# Run Flask App
+# ----------------------------------------------------
+if __name__ == "__main__":
+    superkart_sales_api.run(debug=True)
